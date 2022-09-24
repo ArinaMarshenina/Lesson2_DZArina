@@ -1,0 +1,15 @@
+C:\Users\hilar\OneDrive\Рабочий стол\DZLesson2\Lesson2Arina\bin\Debug\net6.0\Lesson2Arina.exe
+C:\Users\hilar\OneDrive\Рабочий стол\DZLesson2\Lesson2Arina\bin\Debug\net6.0\Lesson2Arina.deps.json
+C:\Users\hilar\OneDrive\Рабочий стол\DZLesson2\Lesson2Arina\bin\Debug\net6.0\Lesson2Arina.runtimeconfig.json
+C:\Users\hilar\OneDrive\Рабочий стол\DZLesson2\Lesson2Arina\bin\Debug\net6.0\Lesson2Arina.dll
+C:\Users\hilar\OneDrive\Рабочий стол\DZLesson2\Lesson2Arina\bin\Debug\net6.0\Lesson2Arina.pdb
+C:\Users\hilar\OneDrive\Рабочий стол\DZLesson2\Lesson2Arina\obj\Debug\net6.0\Lesson2Arina.csproj.AssemblyReference.cache
+C:\Users\hilar\OneDrive\Рабочий стол\DZLesson2\Lesson2Arina\obj\Debug\net6.0\Lesson2Arina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilar\OneDrive\Рабочий стол\DZLesson2\Lesson2Arina\obj\Debug\net6.0\Lesson2Arina.AssemblyInfoInputs.cache
+C:\Users\hilar\OneDrive\Рабочий стол\DZLesson2\Lesson2Arina\obj\Debug\net6.0\Lesson2Arina.AssemblyInfo.cs
+C:\Users\hilar\OneDrive\Рабочий стол\DZLesson2\Lesson2Arina\obj\Debug\net6.0\Lesson2Arina.csproj.CoreCompileInputs.cache
+C:\Users\hilar\OneDrive\Рабочий стол\DZLesson2\Lesson2Arina\obj\Debug\net6.0\Lesson2Arina.dll
+C:\Users\hilar\OneDrive\Рабочий стол\DZLesson2\Lesson2Arina\obj\Debug\net6.0\refint\Lesson2Arina.dll
+C:\Users\hilar\OneDrive\Рабочий стол\DZLesson2\Lesson2Arina\obj\Debug\net6.0\Lesson2Arina.pdb
+C:\Users\hilar\OneDrive\Рабочий стол\DZLesson2\Lesson2Arina\obj\Debug\net6.0\Lesson2Arina.genruntimeconfig.cache
+C:\Users\hilar\OneDrive\Рабочий стол\DZLesson2\Lesson2Arina\obj\Debug\net6.0\ref\Lesson2Arina.dll
